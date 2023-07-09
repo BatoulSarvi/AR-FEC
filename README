@@ -1,0 +1,16 @@
+NS3 Evalvid module + ARFEC mechanism + RTP and RTCP Packet 
+Author: Batoul Sarvi <batoul.sarvi@gmail.com>
+
+1 - Clone the AFEC.git file 
+2 - Move Evalvid folder inside the folder  ns-3.33/src/
+3 - Move applications/* files inside the folder  ns-3.33/src/applications
+4 - Move scratch/* files inside the folder  ns-3.33/scratch
+5 - Move the St_4k30fps_2min.st and St_4k30fps_720.st files to ns-3.33/
+6 - Move the run.sh and run-postprocessing.sh files to ns-3.33/  
+7 - Configure run.sh and run-postprocessing.sh based on what you need. 
+8 - Run bash run.sh 
+9 - Run bash run-postprocessing.sh
+
+
+
+
