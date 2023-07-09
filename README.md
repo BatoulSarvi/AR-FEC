@@ -1,12 +1,14 @@
-# ARFEC
-NS3 Evalvid module + ARFEC mechanism + RTP and RTCP Packet 
+# AR-FEC
+NS3 Evalvid module + AR_FEC mechanism + RTP and RTCP Packet 
 
 AR_FEC: adaptive reliable Forward Error Control 
 
 The Simulation was implemented for a multimedia communication on UAVs.
 
+I designed and implemented this code on NS3.33
 
-Author: Batoul Sarvi <batoul.sarvi@gmail.com>
+
+Author: Batoul Sarvi     <batoul.sarvi@gmail.com>
 
 ------------------------------------------------------------------------------
 
